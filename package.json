@@ -1,0 +1,25 @@
+{
+  "name": "introducao-ao-reactjs",
+  "version": "1.0.0",
+  "description": "Estudo de Introdução ao ReactJS || Digital Innovation One",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flfelipelopes/Introducao-ao-ReactJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flfelipelopes/Introducao-ao-ReactJS/issues"
+  },
+  "homepage": "https://github.com/flfelipelopes/Introducao-ao-ReactJS#readme",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "^3.4.1",
+    "yargs-parser": "^18.1.3"
+  }
+}
